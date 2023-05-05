@@ -1,0 +1,88 @@
+{
+  "enquiry": [
+    {
+      "firstName": "Xin",
+      "lastName": "Gao",
+      "email": "celiagao001@gmail.com",
+      "mobile": "14025665022",
+      "weight": 95,
+      "height": 155,
+      "bmi": 0.0006243496357960458,
+      "bmiResult": "Underweight",
+      "gender": "Female",
+      "requireTrainer": "Yes",
+      "package": "Quarterly",
+      "important": [
+        "Building Lean Muscle",
+        "Healthier Digestive System",
+        "Sugar Craving Body"
+      ],
+      "haveGymBefore": "Yes",
+      "enquiryDate": "2023-05-03T05:00:00.000Z",
+      "id": 1
+    },
+    {
+      "firstName": "Nancy",
+      "lastName": "Nan",
+      "email": "celiagao001@gmail.com",
+      "mobile": "7058790453",
+      "weight": 12,
+      "height": 155,
+      "bmi": 0.0006243496357960458,
+      "bmiResult": "Underweight",
+      "gender": "Female",
+      "requireTrainer": "Yes",
+      "package": "Yearly",
+      "important": [
+        "Toxic Fat reduction",
+        "Energy and Endurance",
+        "Building Lean Muscle"
+      ],
+      "haveGymBefore": "Yes",
+      "enquiryDate": "2023-05-04T05:00:00.000Z",
+      "id": 2
+    },
+    {
+      "firstName": "Jack",
+      "lastName": "John",
+      "email": "jack@test.com",
+      "mobile": "4045059999",
+      "weight": 180,
+      "height": 190,
+      "bmi": 0.0005263157894736842,
+      "bmiResult": "Underweight",
+      "gender": "Female",
+      "requireTrainer": "Yes",
+      "package": "Quarterly",
+      "important": [
+        "Healthier Digestive System",
+        "Sugar Craving Body",
+        "Fitness"
+      ],
+      "haveGymBefore": "No",
+      "enquiryDate": "2023-05-06T05:00:00.000Z",
+      "id": 3
+    },
+    {
+      "firstName": "Joe",
+      "lastName": "Susan",
+      "email": "joe@test.com",
+      "mobile": "2204445555",
+      "weight": 89,
+      "height": 160,
+      "bmi": 0.000625,
+      "bmiResult": "Underweight",
+      "gender": "Male",
+      "requireTrainer": "Yes",
+      "package": "Quarterly",
+      "important": [
+        "Energy and Endurance",
+        "Building Lean Muscle",
+        "Healthier Digestive System"
+      ],
+      "haveGymBefore": "No",
+      "enquiryDate": "2023-05-04T05:00:00.000Z",
+      "id": 4
+    }
+  ]
+}
